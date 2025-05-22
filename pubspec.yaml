@@ -1,0 +1,14 @@
+name: t3api
+description: A Dart client for the T3 API.
+version: 1.0.0
+homepage: https://trackandtrace.tools
+repository: https://github.com/classvsoftware/t3api-dart
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
+dependencies:
+  dio: ^5.0.0
+
+dev_dependencies:
+  lints: ^2.1.0
